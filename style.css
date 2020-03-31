@@ -1,0 +1,99 @@
+
+* {
+  margin:0;
+  padding:0;
+  max-width: 100%;
+}
+
+body {
+
+}
+
+html {
+  background: url('https://i.imgur.com/qglHaaN.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+h1 {
+  color: #FFF9DE;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  text-align: center;
+  padding: 20px;
+  font-size: 60px;
+  }
+
+h2 {
+  color: #FFF9DE;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  text-align: center;
+  padding: 20px;
+  }
+
+h3 {
+    color: #FFF9DE;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    padding: 20px;
+    font-size: 90px;
+    }
+
+p {
+  color: #FFF9DE;
+  font-family: 'Space Mono', monospace;
+  font-size: 100px;
+}
+
+aside{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+a{
+  color: #FFF9DE;
+  text-decoration: none;
+  hover: #8B5959;
+  font-family: 'Dancing Script', cursive;
+  font-size:60px;
+}
+
+#imgsize {
+  height: 600px;
+  width: 30%;
+  float: left;
+  padding: 1.5%;
+  margin-bottom: 5%;
+}
+
+ #click {
+  font-weight: bold;
+  position: absolute;
+  top:30vh;
+  left: 15vw;
+  cursor: pointer;
+}
+
+#description {
+ position: absolute;
+ top:10vh;
+ left: 39vw;
+ margin-top: 200px;
+
+}
+
+#paragraph {
+  color: #FFF9DE;
+  font-size: 16px;
+  width: 50vw;
+  position: absolute;
+  top: 10vh;
+  left: 40vw;
+  float: right;
+  margin-top: 300px;
+}
+
+#centerthevideo{
+  padding-left: 425px;
+}
